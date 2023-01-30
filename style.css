@@ -15,7 +15,7 @@ html {
 /*--HEADER--*/
 header {
     top: 0;
-    position: sticky;
+    position: fix;
     background-color: white;
     z-index: 100;
 }
